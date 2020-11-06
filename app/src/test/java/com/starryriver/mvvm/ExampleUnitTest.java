@@ -1,4 +1,4 @@
-package com.qinjingsheng.mvvm;
+package com.starryriver.mvvm;
 
 import org.junit.Test;
 

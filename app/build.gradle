@@ -31,6 +31,12 @@ dependencies {
     implementation fileTree(dir: 'libs', include: ['*.jar'])
     implementation 'androidx.appcompat:appcompat:1.2.0'
     implementation 'androidx.constraintlayout:constraintlayout:2.0.4'
+    // RecyclerView
+    implementation 'com.google.android.material:material:1.2.1'
+    // lifecycle Deprecated
+    implementation 'androidx.lifecycle:lifecycle-extensions:2.2.0'
+    // lifecycle ViewModel
+//    implementation "androidx.lifecycle:lifecycle-viewmodel:2.2.0"
 
     // okHttp 3.14
     implementation 'com.squareup.okhttp3:okhttp:3.14.9'
